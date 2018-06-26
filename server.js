@@ -25,7 +25,8 @@ fs.readFile('index.html', (err, html) => {
             res.write(html);
         }
         else {
-            res.write('<h1>ERROR 404 IDIOT</h1>');
+            let render = "Return <a href='index.html'>Home</a> <h1>ERROR 4004</h1>"
+            res.write(render);
         }
 
         // res.write(html);

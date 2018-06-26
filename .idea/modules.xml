@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../design_challenge/.idea/design_challenge.iml" filepath="$PROJECT_DIR$/../design_challenge/.idea/design_challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../design_challenge_one/.idea/design_challenge_one.iml" filepath="$PROJECT_DIR$/../design_challenge_one/.idea/design_challenge_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../js_class/.idea/js_class.iml" filepath="$PROJECT_DIR$/../js_class/.idea/js_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../membership/.idea/membership.iml" filepath="$PROJECT_DIR$/../membership/.idea/membership.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/node_class.iml" filepath="$PROJECT_DIR$/.idea/node_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webpack_class/.idea/webpack_class.iml" filepath="$PROJECT_DIR$/../webpack_class/.idea/webpack_class.iml" />
     </modules>
   </component>
 </project>
