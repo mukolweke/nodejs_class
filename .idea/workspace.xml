@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3efab873-068c-42c8-8d9b-08efece79278" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../js_class/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../js_class/gulpfile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../js_class/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../js_class/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../js_class/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../js_class/js/app.js" afterDir="false" />
@@ -591,6 +593,7 @@
       <change beforePath="$PROJECT_DIR$/../js_class/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../js_class/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../js_class/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../js_class/sass/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../js_class/test/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../js_class/test/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -610,11 +613,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -630,7 +642,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../js_class" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -653,6 +665,7 @@
         <option value="$PROJECT_DIR$/../js_class/test/test.js" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -695,6 +708,10 @@
             <path>
               <item name="node_class" type="b2602c69:ProjectViewProjectNode" />
               <item name="node_class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="node_class" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js_class" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -742,12 +759,12 @@
       <updated>1529919628785</updated>
       <workItem from="1529919631789" duration="463000" />
       <workItem from="1529921703997" duration="6900000" />
-      <workItem from="1529961690109" duration="3568000" />
+      <workItem from="1529961690109" duration="3873000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10931000" />
+    <option name="totallyTimeSpent" value="11236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -998,6 +1015,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
